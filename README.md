@@ -1,5 +1,6 @@
 ## Hi there, I'm hyeon soo Lee👋
-https://github.com/DEDOOOAD/DEDOOOAD.github.io
+
+chat gpt 주소록 프로젝트 : https://github.com/DEDOOOAD/DEDOOOAD.github.io
 
 ### **DEDOOOAD/DEDOOOAD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
