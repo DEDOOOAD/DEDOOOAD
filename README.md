@@ -1,6 +1,7 @@
 ## Hi there, I'm hyeon soo Lee👋
 
 chat gpt 주소록 프로젝트 : https://github.com/DEDOOOAD/DEDOOOAD.github.io
+Auto attendance program : https://github.com/DEDOOOAD/FacecheckByYolov5
 
 ### **DEDOOOAD/DEDOOOAD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
